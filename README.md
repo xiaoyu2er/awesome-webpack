@@ -1,5 +1,7 @@
 webpack 资料整理 (持续更新)
 
+
++ [Webpack Fundamentals(视频系列教程)](http://pan.baidu.com/s/1nug9U9j)
 + [如何使用 Webpack - webpack-howto (翻译)(Instagram)](http://gold.xitu.io/entry/5630280260b27cc2b9e85406)
 + [配套视频, Instagram团队Peter-Hunt的分享](https://www.youtube.com/watch?v=VkTCL6Nqm6Y&feature=youtu.be)
 + [视频: Advanced Webpack (Lonely Planet的前端) 很多实用的技巧](https://www.youtube.com/watch?v=MzVFrIAwwS8)
@@ -10,3 +12,6 @@ webpack 资料整理 (持续更新)
 + [基于webpack搭建前端工程解决方案探索](https://segmentfault.com/a/1190000003499526)
 + [【前端构建】WebPack实例与前端性能优化](https://segmentfault.com/a/1190000004577578)
 + [gulp + webpack 构建多页面前端项目](https://segmentfault.com/a/1190000003969465)
+
+
+欢迎Star! 欢迎提供更好的资料!
