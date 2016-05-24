@@ -13,6 +13,7 @@ webpack 资料整理 (持续更新)
 + [【前端构建】WebPack实例与前端性能优化](https://segmentfault.com/a/1190000004577578)
 + [gulp + webpack 构建多页面前端项目](https://segmentfault.com/a/1190000003969465)
 + [webpack 使用优化](http://www.alloyteam.com/2016/01/webpack-use-optimization/)
++ [webpack 傻瓜指南](https://github.com/vikingmute/webpack-for-fools)
 
 
 欢迎Star! 欢迎提供更好的资料!
