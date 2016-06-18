@@ -1,6 +1,6 @@
 # webpack 资料整理 (持续更新)
 
-更新时间 2016-06-02
+更新时间 2016-06-18
 
 ## 入门
 + [webpack 使用教程](https://www.zfanw.com/blog/webpack-tutorial.html) 
