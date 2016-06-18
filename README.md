@@ -11,6 +11,7 @@
 + [Webpack 入门指迷 - 题叶](https://segmentfault.com/a/1190000002551952)
 + [Webpack your bags](https://blog.madewithlove.be/post/webpack-your-bags/)
 
+
 ## 高阶
 + [Webpack 性能优化 （一）(使用别名做重定向)](http://code.oneapm.com/javascript/2015/07/07/webpack_performance_1/)
 + [视频: Advanced Webpack (Lonely Planet的前端) 很多实用的技巧](https://www.youtube.com/watch?v=MzVFrIAwwS8)
@@ -23,6 +24,9 @@
 + [webpack使用优化（基本篇）](https://github.com/lcxfs1991/blog/issues/2)
 + [webpack使用优化（react篇）](https://github.com/lcxfs1991/blog/issues/7)
 + [React移动web极致优化](https://github.com/lcxfs1991/blog/issues/8)
++ [webpack 系列 (1) ](https://zhuanlan.zhihu.com/p/21287263)
++ [webpack 系列 (2) webpack 进阶](https://zhuanlan.zhihu.com/p/21318102)
++ [webpack 系列 (3) webpack + gulp 构建完整前端工作流](https://zhuanlan.zhihu.com/p/21312474)
 
 ## Demo
 + [ruanyf/webpack-demos](https://github.com/ruanyf/webpack-demos) - 阮一峰的 webpack-howto-demos
