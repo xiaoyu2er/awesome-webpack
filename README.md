@@ -33,6 +33,7 @@
 + [chemdemo/webpack-seed](https://github.com/chemdemo/webpack-seed) - 一个基于webpack搭建的工程例子 很有借鉴意义 可以做到同时支持SPA和多页面型的项目
 + [WechatFE/vConsole](https://github.com/WechatFE/vConsole) - 手机上的 console 微信团队开发
 + [krasimir/webpack-library-starter](https://github.com/krasimir/webpack-library-starter) - Webpack based boilerplate for producing libraries (Input: ES6, Output: universal library)
++ [vivaxy/gt-react-scaffold](https://github.com/vivaxy/gt-react-scaffold) - A boilerplate for client apps of webpack, react, redux, router...
 
 
 
